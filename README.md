@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**SamGuedes/SamGuedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=header" alt="header"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Samuel+Guedes;Data+Analyst"/>
+</a>
+
+
+<div>
+    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+</div>
+
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/samuel-guedes/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA1&height=120&section=footer" alt="footer"/>
+
