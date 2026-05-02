@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=140&section=header"/>
-
 <h1 align="center">Samuel Guedes</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=800&color=7AA2FF&center=true&vCenter=true&width=500&lines=Data+Analyst;Data+Engineering;Building+Data+Pipelines"/>
 </p>
@@ -57,7 +55,5 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>
   </a>
 </p>
-
----
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:1c1f4a,100:0f2027&height=140&section=footer"/>
