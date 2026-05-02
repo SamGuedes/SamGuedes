@@ -59,6 +59,4 @@
 [![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/>
 
----
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:1c1f4a,100:0f2027&height=140&section=footer"/>
