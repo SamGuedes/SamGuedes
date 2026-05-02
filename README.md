@@ -12,6 +12,14 @@
 	I work with data extraction, integration and pipeline development across APIs, databases and real-time streaming sources, building structured workflows that transform raw and distributed data into reliable, analytics-ready systems.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-guedes-7b9938198">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32"/>
+  </a>
+</p>
+
+---
+
 ### 🧠 About Me
 
 - 🎓 Computer Science @ UNISC  
@@ -51,12 +59,6 @@
 [![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/>
 
-### 📫 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/samuel-guedes-7b9938198">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>
-  </a>
-</p>
+---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:1c1f4a,100:0f2027&height=140&section=footer"/>
