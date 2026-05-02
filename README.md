@@ -10,8 +10,6 @@
   Data Analyst focused on data structuring, integration and pipeline development, evolving towards Data Engineering.
 </p>
 
----
-
 ### 🧠 About Me
 
 - 🎓 Computer Science @ UNISC  
