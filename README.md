@@ -1,5 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=140&section=header"/>
-<h1 align="center">Samuel Guedes</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=140&section=header" style="margin-bottom:0px;"/>
+
+<h1 align="center" style="font-size:56px; margin-top:6px;">
+  Samuel Guedes
+</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=800&color=7AA2FF&center=true&vCenter=true&width=500&lines=Data+Analyst;Data+Engineering;Building+Data+Pipelines"/>
 </p>
@@ -11,10 +15,10 @@
 ### 🧠 About Me
 
 - 🎓 Computer Science @ UNISC  
-- 👨🏻‍💻 Data Analyst @ Analitica3M
-- 📍 Santa Cruz do Sul, Rio Grande do Sul, Brazil
+- 👨🏻‍💻 Data Analyst @ Analitica3M  
+- 📍 Santa Cruz do Sul, Rio Grande do Sul, Brazil  
 - ⚙️ Work with **data integration, ETL/ELT pipelines and data modeling**  
-- 🔗 Solid Experience integrating systems via **APIs (REST, gRPC, GraphQL)**  
+- 🔗 Solid experience integrating systems via **APIs (REST, gRPC, GraphQL)**  
 - 🧱 Focus on building **consistent and reliable data layers**  
 - 🤖 Interest in **Machine Learning pipelines (training & inference integration)**  
 
@@ -23,20 +27,22 @@
 ### ⚡ Tech Stack
 
 #### 🗄️ Data & Databases
-<div >
+<div>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/>
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" alt="MariaDB" title="MariaDB"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" alt="Apache Spark" title="Apache Spark"/>
 </div>
 
 #### ⚙️ Backend & Engineering
-[![Tools](https://skillicons.dev/icons?i=git,linux,docker)](https://skillicons.dev)<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/>
+[![Tools](https://skillicons.dev/icons?i=git,linux,docker)](https://skillicons.dev)
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/>
 
 #### ☁️ Currently Learning
-[![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/>
+[![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/>
 
 ---
 
@@ -47,6 +53,8 @@
 - Data modeling (OLTP → analytical layers)  
 - Backend-oriented data flows and automation  
 - Foundations for ML integration in real systems  
+
+---
 
 ### 📫 Connect with me
 
