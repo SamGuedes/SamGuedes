@@ -1,6 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=140&section=header"/>
+<img width=100% 
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=140&section=header"
+style="display:block; margin:0; padding:0;"/>
 
-<h1 align="center" style="font-size:56px; margin-top:6px;">
+<h1 align="center" style="font-size:56px; margin:0; padding:0; line-height:1;">
   Samuel Guedes
 </h1>
 
@@ -18,7 +20,6 @@
   </a>
 </p>
 
-<!-- LINHA 1 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1c1f4a,100:4b0082&height=6&section=header"/>
 
 ### 🧠 About Me
@@ -31,7 +32,6 @@
 - 🧱 Focus on building **consistent and reliable data layers**  
 - 🤖 Interest in **Machine Learning pipelines (training & inference integration)**  
 
-<!-- LINHA 2 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1c1f4a,100:4b0082&height=6&section=header"/>
 
 ### ⚡ Tech Stack
@@ -63,5 +63,4 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png"/>
 </div>
 
-<!-- LINHA 3 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:1c1f4a,100:0f2027&height=140&section=footer"/>
