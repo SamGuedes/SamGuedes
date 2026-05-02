@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Data Analyst focused on data structuring, integration and pipeline development, evolving towards Data Engineering.
+	I work with data extraction, integration and pipeline development across APIs, databases and real-time streaming sources, building structured workflows that transform raw and distributed data into reliable, analytics-ready systems.
 </p>
 
 ### 🧠 About Me
