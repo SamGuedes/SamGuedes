@@ -47,7 +47,7 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" title="GraphQL"/>
 </div>
 
-#### ☁️ Currently Learning
+#### 📚 Currently Learning
 [![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/>
 
