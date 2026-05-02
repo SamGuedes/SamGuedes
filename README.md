@@ -51,18 +51,6 @@
 [![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/>
 
----
-
-### 🚀 What I'm Building
-
-- ETL / ELT pipelines with Python and SQL  
-- Data integration from APIs → structured datasets  
-- Data modeling (OLTP → analytical layers)  
-- Backend-oriented data flows and automation  
-- Foundations for ML integration in real systems  
-
----
-
 ### 📫 Connect with me
 
 <p align="left">
