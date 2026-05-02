@@ -1,30 +1,65 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=140&section=header"/>
 
+<h1 align="center">Samuel Guedes</h1>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=header" alt="header"/> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=800&color=7AA2FF&center=true&vCenter=true&width=500&lines=Data+Analyst;Data+Engineering;Building+Data+Pipelines"/>
+</p>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Samuel+Guedes;Data+Analyst"/>
-</a>
+<p align="center">
+  Data Analyst focused on data structuring, integration and pipeline development, evolving towards Data Engineering.
+</p>
 
+---
 
-<div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+### 🧠 About Me
+
+- 🎓 Computer Science @ UNISC  
+- 👨🏻‍💻 Data Analyst @ Analitica3M
+- 📍 Santa Cruz do Sul, Rio Grande do Sul, Brazil
+- ⚙️ Work with **data integration, ETL/ELT pipelines and data modeling**  
+- 🔗 Solid Experience integrating systems via **APIs (REST, gRPC, GraphQL)**  
+- 🧱 Focus on building **consistent and reliable data layers**  
+- 🤖 Interest in **Machine Learning pipelines (training & inference integration)**  
+
+---
+
+### ⚡ Tech Stack
+
+#### 🗄️ Data & Databases
+<div >
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" alt="MariaDB" title="MariaDB"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" alt="Apache Spark" title="Apache Spark"/>
 </div>
 
+#### ⚙️ Backend & Engineering
+[![Tools](https://skillicons.dev/icons?i=git,linux,docker)](https://skillicons.dev)<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/>
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql)](https://skillicons.dev)
+#### ☁️ Currently Learning
+[![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/>
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+---
 
+### 🚀 What I'm Building
 
-### Connect with me!
-<div>
-    <a href="https://www.linkedin.com/in/samuel-guedes/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-    </a>
-</div>
+- ETL / ELT pipelines with Python and SQL  
+- Data integration from APIs → structured datasets  
+- Data modeling (OLTP → analytical layers)  
+- Backend-oriented data flows and automation  
+- Foundations for ML integration in real systems  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA1&height=120&section=footer" alt="footer"/>
+### 📫 Connect with me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/samuel-guedes-7b9938198">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>
+  </a>
+</p>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:1c1f4a,100:0f2027&height=140&section=footer"/>
