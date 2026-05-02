@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=140&section=header" style="margin-bottom:0px;"/>
+<div style="height:1px; background: linear-gradient(to right, transparent, #4b0082, transparent); margin: 10px 0;"></div>
 
 <h1 align="center" style="font-size:56px; margin-top:6px;">
   Samuel Guedes
@@ -14,11 +14,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-guedes-7b9938198">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-samuel--guedes-1c1f4a?style=flat&logo=linkedin&logoColor=7AA2FF"/>
   </a>
 </p>
 
----
+<div style="height:1px; background: linear-gradient(to right, transparent, #4b0082, transparent); margin: 20px 0;"></div>
 
 ### 🧠 About Me
 
@@ -30,7 +30,7 @@
 - 🧱 Focus on building **consistent and reliable data layers**  
 - 🤖 Interest in **Machine Learning pipelines (training & inference integration)**  
 
----
+<div style="height:1px; background: linear-gradient(to right, transparent, #4b0082, transparent); margin: 20px 0;"></div>
 
 ### ⚡ Tech Stack
 
@@ -56,7 +56,9 @@
 </div>
 
 #### 📚 Currently Learning
-[![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/>
+<div>
+  <img width="50" src="https://skillicons.dev/icons?i=aws" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/>
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:1c1f4a,100:0f2027&height=140&section=footer"/>
+<div style="height:1px; background: linear-gradient(to right, transparent, #4b0082, transparent); margin: 20px 0;"></div>
