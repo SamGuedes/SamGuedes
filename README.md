@@ -7,7 +7,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3800&pause=600&color=7AA2FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Data+Pipelines;API+Integration+%7C+ETL+%7C+ELT;Turning+Raw+Data+into+Reliable+Insights"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3800&pause=600&color=7AA2FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Data+Pipelines;API+Integration+%7C+ETL+%7C+Streaming+Systems;Turning+Raw+Data+into+Reliable+Insights"/>
 </p>
 
 <p align="center">
@@ -31,5 +31,36 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,
 - 🔗 APIs: REST, gRPC, GraphQL  
 - 🧱 Focus on building **reliable and scalable data architectures**  
 - 🤖 Interest in **ML pipelines (training + deployment)**  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1c1f4a,100:4b0082&height=6&section=header"/>
+
+### ⚡ Tech Stack
+
+#### 🗄️ Data & Databases
+<div>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png"/>
+</div>
+
+#### ⚙️ Backend & Engineering
+<div>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grpc.png"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png"/>
+</div>
+
+#### ☁️ Currently Learning
+<div>
+	<img width="50" src="https://skillicons.dev/icons?i=aws"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png"/>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:1c1f4a,100:0f2027&height=140&section=footer"/>
