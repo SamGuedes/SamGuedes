@@ -26,7 +26,7 @@ style="display:block; margin:0; padding:0;"/>
 
 - 🎓 Computer Science @ UNISC  
 - 👨🏻‍💻 Data Analyst @ Analitica3M  
-- 📍 Santa Cruz do Sul, Rio Grande do Sul, Brazil  
+- 📍 Rio Grande do Sul, Brazil  
 - ⚙️ Work with **data integration, ETL/ELT pipelines and data modeling**  
 - 🔗 Solid experience integrating systems via **APIs (REST, gRPC, GraphQL)**  
 - 🧱 Focus on building **consistent and reliable data layers**  
