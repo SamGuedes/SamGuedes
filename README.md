@@ -30,8 +30,6 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,
 - 🧱 Focus on building **reliable and scalable data architectures**  
 - 🤖 Interest in **ML pipelines (training + deployment)**  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1c1f4a,100:4b0082&height=6&section=header"/>
-
 ### ⚡ Tech Stack
 
 #### 🗄️ Data & Databases
