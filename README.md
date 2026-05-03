@@ -7,7 +7,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3800&pause=600&color=7AA2FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Data+Pipelines;API+Integration+%7C+ETL+%7C+Streaming+Systems;Turning+Raw+Data+into+Reliable+Insights"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3800&pause=600&color=7AA2FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Data+Pipelines;API+Integration+%7C+ETL+%7C+ELT;Turning+Raw+Data+into+Reliable+Insights"/>
 </p>
 
 <p align="center">
