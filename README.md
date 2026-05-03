@@ -1,5 +1,5 @@
 <img width=100% 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=200&section=header&text=Samuel%20Guedes&fontSize=42&fontAlignY=35&fontColor=ffffff&font=monospace"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=130&section=header&text=Samuel%20Guedes&fontSize=30&fontAlignY=40&fontColor=ffffff&font=monospace"
 />
 
 <h3 align="center">
