@@ -1,9 +1,9 @@
 <img width=100% 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=200&section=header&text=Samuel%20Guedes&fontSize=65&fontAlignY=35&fontColor=ffffff"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=200&section=header&text=Samuel%20Guedes&fontSize=50&fontAlignY=35&fontColor=ffffff"
 style="display:block; margin:0; padding:0;"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=800&color=7AA2FF&center=true&vCenter=true&width=500&lines=Data+Analyst;Data+Engineering;Building+Data+Pipelines"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=32&duration=4000&pause=800&color=7AA2FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Engineering;Building+Data+Pipelines"/>
 </p>
 
 <p align="center">
@@ -38,9 +38,7 @@ style="display:block; margin:0; padding:0;"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png"/>
 </div>
 
 #### ⚙️ Backend & Engineering
