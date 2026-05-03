@@ -1,8 +1,12 @@
 <img width=100% 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=130&section=header&text=Samuel%20Guedes&fontSize=30&fontAlignY=40&fontColor=ffffff&font=monospace"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=120&section=header"
 />
 
-<h3 align="center">
+<h1 align="center" style="margin-top:-35px; margin-bottom:0; line-height:1;">
+  Samuel Guedes
+</h1>
+
+<h3 align="center" style="margin-top:0; margin-bottom:10px;">
   Data Engineer • Data Analyst • Data Systems & Architecture
 </h3>
 
@@ -59,4 +63,4 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:1c1f4a,100:0f2027&height=140&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:1c1f4a,100:0f2027&height=120&section=footer"/>
