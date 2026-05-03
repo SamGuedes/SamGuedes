@@ -36,7 +36,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,
 
 ### ⚡ Tech Stack
 
-#### 🗄️ Data & Databases
+#### 🗄️ Data Tools & Databases
 <div>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"/>
