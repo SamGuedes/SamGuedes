@@ -1,9 +1,13 @@
 <img width=100% 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=200&section=header&text=Samuel%20Guedes&fontSize=50&fontAlignY=35&fontColor=ffffff"
-style="display:block; margin:0; padding:0;"/>
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1f4a,100:4b0082&height=200&section=header&text=Samuel%20Guedes&fontSize=52&fontAlignY=35&fontColor=ffffff"
+/>
+
+<h3 align="center">
+  Data Engineer • Data Analyst • Data Systems & Architecture
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=32&duration=4000&pause=800&color=7AA2FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Engineering;Building+Data+Pipelines"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3800&pause=600&color=7AA2FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Data+Pipelines;API+Integration+%7C+ETL+%7C+ELT;Turning+Raw+Data+into+Reliable+Insights"/>
 </p>
 
 <p align="center">
@@ -24,37 +28,8 @@ style="display:block; margin:0; padding:0;"/>
 - 👨🏻‍💻 Data Analyst @ Analitica3M  
 - 📍 Rio Grande do Sul, Brazil  
 - ⚙️ Work with **data integration, ETL/ELT pipelines and data modeling**  
-- 🔗 Solid experience integrating systems via **APIs (REST, gRPC, GraphQL)**  
-- 🧱 Focus on building **consistent and reliable data layers**  
-- 🤖 Interest in **Machine Learning pipelines (training & inference integration)**  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:1c1f4a,100:4b0082&height=6&section=header"/>
-
-### ⚡ Tech Stack
-
-#### 🗄️ Data & Databases
-<div>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png"/>
-</div>
-
-#### ⚙️ Backend & Engineering
-<div>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grpc.png"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png"/>
-</div>
-
-#### ☁️ Currently Learning
-<div>
-	<img width="50" src="https://skillicons.dev/icons?i=aws"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png"/>
-</div>
+- 🔗 APIs: REST, gRPC, GraphQL  
+- 🧱 Focus on building **reliable and scalable data architectures**  
+- 🤖 Interest in **ML pipelines (training + deployment)**  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:1c1f4a,100:0f2027&height=140&section=footer"/>
